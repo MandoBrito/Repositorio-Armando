@@ -1,0 +1,1 @@
+Nesse código vemos três tipos de relacionamentos: a composição entre Hospital e Unidade, onde a Unidade depende do Hospital para existir, a agregação entre Unidade e Medico onde os médicos são associados a uma ou mais unidades, mas existindo independentemente das unidades e a associação entre Medico e Paciente por meio da Consulta, com o vínculo temporário entre eles.
