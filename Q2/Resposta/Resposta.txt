@@ -1,0 +1,1 @@
+O código tem uma relação de agregação, os instrutores pode existir mesmo sem a classe curso, um instrutor pode ser alocado em a vários cursos, e mesmo que um dos cursos seja excluído o instrutor ainda vai existir.

@@ -1,0 +1,1 @@
+O código tem uma relação de associação, essa relação mostra que uma pessoa pode dirigir vários carros ao longo do tempo, mas o carro não guarda registro das pessoas que o dirigiram, as classes Pessoa e Carro pode existir uma sem a outra.

@@ -1,0 +1,1 @@
+Neste código a relação de composição a placa-mãe é parte essencial do computado, o método exibirDetalhes() encapsula o comportamento de exibir todas as informações do computador, incluindo os dados da placa-mãe, mostrando o forte e vínculo entre as duas classes.
